@@ -17,33 +17,29 @@
 			<div class="col-1"></div>
 			<div class="col-7">
 				<div class="card mb-3">
-					<img class="card-img-top" src="../../public/imagens/IMG_4520.JPG"
-						alt="Por Lugares Incríveis">
 					<div class="card-body">
-						<h5 class="card-title text-center font-sub">Resumo: Livro
-							"Por Lugares Incríveis"</h5>
-						<p class="card-text text-justify">Violet Markey tinha uma vida
-							perfeita, mas todos os seus planos deixam de fazer sentido quando
-							ela e a irmã sofrem um acidente de carro e apenas Violet
-							sobrevive. Sentindo-se culpada pelo que aconteceu, a garota se
-							afasta de todos e tenta descobrir como seguir em frente. Theodore
-							Finch é o esquisito da escola, perseguido pelos valentões e
-							obrigado a lidar com longos períodos de depressão, o pai violento
-							e a apatia do resto da família. Enquanto Violet conta os dias
-							para o fim das aulas, quando poderá ir embora da cidadezinha onde
-							mora, Finch pesquisa diferentes métodos de suicídio e imagina se
-							conseguiria levar algum deles adiante. Em uma dessas tentativas,
-							ele vai parar no alto da torre da escola e, para sua surpresa,
-							encontra Violet, também prestes a pular. Um ajuda o outro a sair
-							dali, e essa dupla improvável se une para fazer um trabalho de
-							geografia: visitar os lugares incríveis do estado onde moram.
-							Nessas andanças, Finch encontra em Violet alguém com quem
-							finalmente pode ser ele mesmo, e a garota para de contar os dias
-							e passa a vivê-los.</p>
-						<p class="card-text">
-							<small class="text-muted">Publicado em 04 de Setembro de
-								2018</small>
-						</p>
+					<h5 class="card-title text-center font-sub">Contato</h5>
+						<form>
+							<div class="form-group">
+								<label for="exampleFormControlInput1">Nome Completo</label> <input
+									type="email" class="form-control" id="exampleFormControlInput1"
+									placeholder="Ana Beatriz Araujo">
+							</div>
+							
+							<div class="form-group">
+								<label for="exampleFormControlInput1">E-Mail</label> <input
+									type="email" class="form-control" id="exampleFormControlInput1"
+									placeholder="ana@beatriz.com">
+							</div>
+
+							<div class="form-group">
+								<label for="exampleFormControlTextarea1">Mensagem</label>
+								<textarea class="form-control" id="exampleFormControlTextarea1"
+									rows="10" placeholder="Escreva sua mensagem aqui"></textarea>
+							</div>
+							<button type="submit" class="btn btn-primary">Enviar</button>
+						</form>
+
 					</div>
 				</div>
 			</div>

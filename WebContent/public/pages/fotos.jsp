@@ -16,80 +16,92 @@
 		<div class="row">
 			<div class="col-1"></div>
 			<div class="col-7">
-				<div class="card-deck">
+				<div class="card-deck text-center">
 					<div class="card">
-						<img class="card-img-top" src="../../public/imagens/2017-09-10 07.40.30 1.jpg" alt="JA">
+						<img class="card-img-top"
+							src="../../public/imagens/2017-09-10 07.40.30 1.jpg" alt="JA">
 						<div class="card-body">
-							<h5 class="card-title">Jovens Adoradores</h5>
-							<p class="card-text">This is a longer card with supporting
-								text below as a natural lead-in to additional content. This
-								content is a little bit longer.</p>
-							<p class="card-text">
-								<small class="text-muted">Last updated 3 mins ago</small>
-							</p>
+							<h5 class="card-title font-sub">Jovens Adoradores</h5>
+							<p class="card-text">Sou católica e participo de um grupo de oração
+							chamado "Jovens Adoradores" há quase cinco anos. Tirei essa foto
+							no primeiro retiro de conversão que organizamos, o "Coração Adorador".</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">Publicado em 04 de Setembro de
+								2018</small>
 						</div>
 					</div>
 					<div class="card">
-						<img class="card-img-top" src="../../public/imagens/2017-09-13 05.27.42 1.jpg" alt="Música">
+						<img class="card-img-top"
+							src="../../public/imagens/2017-09-13 05.27.42 1.jpg" alt="Música">
 						<div class="card-body">
-							<h5 class="card-title">Card title</h5>
-							<p class="card-text">This card has supporting text below as a
-								natural lead-in to additional content.</p>
-							<p class="card-text">
-								<small class="text-muted">Last updated 3 mins ago</small>
-							</p>
+							<h5 class="card-title font-sub">Música</h5>
+							<p class="card-text">Eu amo cantar! Fiz aula de canto por cerca de 
+							dois anos. Faço parte de um ministério de música no grupo que participo
+							na Paróquia que frequento.</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">Publicado em 04 de Setembro de
+								2018</small>
 						</div>
 					</div>
 					<div class="card">
-						<img class="card-img-top" src="../../public/imagens/2017-09-14 09.48.59 1.jpg" alt="Adoração">
+						<img class="card-img-top"
+							src="../../public/imagens/2017-09-14 09.48.59 1.jpg"
+							alt="Adoração">
 						<div class="card-body">
-							<h5 class="card-title">Card title</h5>
-							<p class="card-text">This is a wider card with supporting
-								text below as a natural lead-in to additional content. This card
-								has even longer content than the first to show that equal height
-								action.</p>
-							<p class="card-text">
-								<small class="text-muted">Last updated 3 mins ago</small>
-							</p>
+							<h5 class="card-title font-sub">Adoração</h5>
+							<p class="card-text">“Quando te aproximares do Sacrário, pensa que Ele!… 
+							faz vinte séculos que te espera.”</p>
+							<p class="card-text">(Caminho, nº 537) - Palavras de São Josemaria Escrivá</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">Publicado em 04 de Setembro de
+								2018</small>
 						</div>
 					</div>
 				</div>
 				<br>
-				<div class="card-deck">
+				<div class="card-deck text-center">
 					<div class="card">
-						<img class="card-img-top" src="../../public/imagens/2018-01-05 07.04.34 1.jpg" alt="Alexandre">
+						<img class="card-img-top"
+							src="../../public/imagens/2018-01-05 07.04.34 1.jpg"
+							alt="Alexandre">
 						<div class="card-body">
-							<h5 class="card-title">Card title</h5>
-							<p class="card-text">This is a longer card with supporting
-								text below as a natural lead-in to additional content. This
-								content is a little bit longer.</p>
-							<p class="card-text">
-								<small class="text-muted">Last updated 3 mins ago</small>
-							</p>
+							<h5 class="card-title font-sub">Namoro</h5>
+							<p class="card-text">Eu namoro com o Alexandre há dois anos e sou
+							extremamente feliz por ter essa pessoa incrível do meu lado!</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">Publicado em 04 de Setembro de
+								2018</small>
 						</div>
 					</div>
 					<div class="card">
-						<img class="card-img-top" src="../../public/imagens/2018-07-08 01.49.32 1.jpg" alt="João">
+						<img class="card-img-top"
+							src="../../public/imagens/2018-07-08 01.49.32 1.jpg" alt="João">
 						<div class="card-body">
-							<h5 class="card-title">Card title</h5>
-							<p class="card-text">This card has supporting text below as a
-								natural lead-in to additional content.</p>
-							<p class="card-text">
-								<small class="text-muted">Last updated 3 mins ago</small>
-							</p>
+							<h5 class="card-title font-sub">Família</h5>
+							<p class="card-text">João Pedro é meu irmão caçula e o presente mais lindo
+							que Deus me deu!</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">Publicado em 04 de Setembro de
+								2018</small>
 						</div>
 					</div>
 					<div class="card">
-						<img class="card-img-top" src="../../public/imagens/2018-09-12 07.34.56 2.jpg" alt="Card image cap">
+						<img class="card-img-top"
+							src="../../public/imagens/2018-09-12 07.34.56 2.jpg"
+							alt="Microfone">
 						<div class="card-body">
-							<h5 class="card-title">Card title</h5>
-							<p class="card-text">This is a wider card with supporting
-								text below as a natural lead-in to additional content. This card
-								has even longer content than the first to show that equal height
-								action.</p>
-							<p class="card-text">
-								<small class="text-muted">Last updated 3 mins ago</small>
-							</p>
+							<h5 class="card-title font-sub">Fotografia</h5>
+							<p class="card-text">Gosto muito de fotografar momentos e pessoas importantes
+							para mim. As fotos presentes nesse portifólio são de minha autoria.</p>
+						</div>
+						<div class="card-footer">
+							<small class="text-muted">Publicado em 04 de Setembro de
+								2018</small>
 						</div>
 					</div>
 				</div>

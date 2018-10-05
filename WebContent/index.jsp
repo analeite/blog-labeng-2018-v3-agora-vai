@@ -48,7 +48,8 @@
 					href="public/pages/sobre.jsp">Sobre</a></li>
 				<li class="nav-item"><a class="nav-link"
 					href="public/pages/fotos.jsp">Fotos</a></li>
-				<li class="nav-item"><a class="nav-link" href="public/pages/contato.jsp">Contato</a></li>
+				<li class="nav-item"><a class="nav-link"
+					href="public/pages/contato.jsp">Contato</a></li>
 			</ul>
 		</div>
 		</nav>
@@ -96,11 +97,15 @@
 							Nessas andanças, Finch encontra em Violet alguém com quem
 							finalmente pode ser ele mesmo, e a garota para de contar os dias
 							e passa a vivê-los.</p>
-						<p class="card-text">
-							<small class="text-muted">Publicado em 04 de Setembro de
-								2018</small>
-						</p>
+						<ul class="list-group list-group-flush text-center">
+							<li class="list-group-item"><span class="font-sub">Tags: </span> <a href="#"
+								class="card-link">Livros</a>
+						</ul>
 					</div>
+					<p class="card-footer">
+						<small class="text-muted">Publicado em 04 de Setembro de
+							2018</small>
+					</p>
 				</div>
 			</div>
 			<div class="col-2">
