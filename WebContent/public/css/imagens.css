@@ -2,43 +2,49 @@
     Created on : 23/09/2018, 21:39:44
     Author     : Ana Beatriz Araujo
 */
-
-.img-title{
-    width: 100%;    /* largura da imagem */
-    height: 350px;   /*  altura da imagem  */
-    margin-top: -10px; /* margem do topo */
-    filter: brightness(75%);
+.img-title {
+	width: 100%; /* largura da imagem */
+	height: 350px; /*  altura da imagem  */
+	margin-top: -10px; /* margem do topo */
+	filter: brightness(75%);
 }
 
-.img-post{
-    width: 80%;
-    height: 40%;
+.img-post {
+	width: 80%;
+	height: 40%;
 }
 
-.background{
-    background-color: #F8F8FF
-
-;
+.background {
+	background-color: #F8F8FF;
 }
 
-.font-title{
-    /*font-family: impact, fantasy;*/
-    /*font-family: 'Merienda', cursive;*/
-    /*font-family: 'Annie Use Your Telescope', cursive;*/
-    /*font-family: 'Caveat Brush', cursive;*/
-    font-family: 'Zilla Slab Highlight', cursive;
-    /*font-family: lilly;*/
-    font-weight: bold;
-    font-size: 80px;
+.font-title {
+	/*font-family: impact, fantasy;*/
+	/*font-family: 'Merienda', cursive;*/
+	/*font-family: 'Annie Use Your Telescope', cursive;*/
+	/*font-family: 'Caveat Brush', cursive;*/
+	font-family: 'Zilla Slab Highlight', cursive;
+	/*font-family: lilly;*/
+	font-weight: bold;
+	font-size: 80px;
 }
 
-.font-sub{
+.font-sub {
 	font-family: 'Merienda', cursive;
 	font-weight: bold;
 }
 
-@font-face{
-    font-family: lilly;
-    src: url("/public/font/LillyBelle.ttf")format("truetype");
+@font-face {
+	font-family: lilly;
+	src: url("/public/font/LillyBelle.ttf") format("truetype");
 }
 
+.login {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -50px;
+}
