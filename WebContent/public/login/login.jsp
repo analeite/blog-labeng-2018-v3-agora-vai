@@ -31,25 +31,46 @@
 </head>
 <body class="background">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 	<div class="container">
 		<div class="col-md-6 offset-md-3">
 			<form class="form-signin">
-				<h2 class="form-signin-heading">Please sign in</h2>
-				<label for="inputEmail" class="sr-only">Email address</label> <input
-					type="email" id="inputEmail" class="form-control"
-					placeholder="Email address" required autofocus> <label
-					for="inputPassword" class="sr-only">Password</label> <input
-					type="password" id="inputPassword" class="form-control"
-					placeholder="Password" required>
-				<div class="checkbox">
-					<label> <input type="checkbox" value="remember-me">
-						Remember me
-					</label>
-				</div>
-				<button class="btn btn-lg btn-primary btn-block" type="submit">Sign
-					in</button>
+				<div class="card text-center">
+					<div class="card-header">
+						<h3 class="form-signin-heading font-sub">Login</h3>
+					</div>
+					<div class="card-body">
+					
+						<h5 class="font-sub">E-mail</h5>
+						
+						<label for="inputEmail" class="sr-only">E-mail</label> <input
+							type="email" id="inputEmail" class="form-control"
+							placeholder="E-mail" required autofocus>
+
+						<br>
+						<h5 class="font-sub">Senha</h5>
+
+						<label for="inputPassword" class="sr-only">Senha</label> <input
+							type="password" id="inputPassword" class="form-control"
+							placeholder="Senha" required>
+
+						<!-- 						<div class="checkbox">
+							<label> <input type="checkbox" value="remember-me">
+								Remember me
+							</label>
+						</div> -->
+						<br>
+						<button class="btn btn-lg btn-primary btn-block" type="submit">Acessar</button>
 			</form>
 		</div>
+	</div>
+	</div>
 	</div>
 
 
