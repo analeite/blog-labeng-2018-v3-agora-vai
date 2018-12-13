@@ -2,7 +2,7 @@ package br.com.fatec.blog.dao;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
-
+import org.hibernate.cfg.Configuration;
 
 import br.com.fatec.blog.pojo.User;
 import br.com.fatec.blog.util.HibernateUtil;

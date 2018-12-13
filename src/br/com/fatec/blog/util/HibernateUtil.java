@@ -11,7 +11,7 @@ public class HibernateUtil {
 	private static SessionFactory sessionFactory;
 	
 	static {
-		configuration = new Configuration ().configure("br/com/fatec/blog/config/hibernate.cfg.xml");
+		configuration = new Configuration().configure("br/com/fatec/blog/config/hibernate.cfg.xml");
 		sessionFactory = configuration.buildSessionFactory();
 	}
 	
