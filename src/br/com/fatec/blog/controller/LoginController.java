@@ -28,7 +28,8 @@ public class LoginController extends HttpServlet {
 	String page = "login.jsp";
 	if(username.trim().length() >= 0 && username != null &&
 			password.trim().length() >= 0 && password != null) {
-		BaseService loginService.login(username, password);
+		BaseService loginService = new BaseServiceImpl();
+		boolean flag = loginService.login(username, password);
 		
 		if(flag) {
 			System.out.println("Login feito com sucesso!");
