@@ -21,24 +21,12 @@
 						alt="Ana Beatriz">
 					<div class="card-body">
 						<h5 class="card-title text-center font-sub">Sobre Ana Beatriz Araujo</h5>
-						<p class="card-text text-justify">Violet Markey tinha uma vida
-							perfeita, mas todos os seus planos deixam de fazer sentido quando
-							ela e a irmã sofrem um acidente de carro e apenas Violet
-							sobrevive. Sentindo-se culpada pelo que aconteceu, a garota se
-							afasta de todos e tenta descobrir como seguir em frente. Theodore
-							Finch é o esquisito da escola, perseguido pelos valentões e
-							obrigado a lidar com longos períodos de depressão, o pai violento
-							e a apatia do resto da família. Enquanto Violet conta os dias
-							para o fim das aulas, quando poderá ir embora da cidadezinha onde
-							mora, Finch pesquisa diferentes métodos de suicídio e imagina se
-							conseguiria levar algum deles adiante. Em uma dessas tentativas,
-							ele vai parar no alto da torre da escola e, para sua surpresa,
-							encontra Violet, também prestes a pular. Um ajuda o outro a sair
-							dali, e essa dupla improvável se une para fazer um trabalho de
-							geografia: visitar os lugares incríveis do estado onde moram.
-							Nessas andanças, Finch encontra em Violet alguém com quem
-							finalmente pode ser ele mesmo, e a garota para de contar os dias
-							e passa a vivê-los.</p>
+						<p class="card-text text-justify">Me chamo Ana Beatriz e sou uma jovem sonhadora de 22 anos. 
+						Nasci em São José dos Campos, e possuo raízes Nordestinas e Mineiras (e sinto muito orgulho dessa herança). 
+						Moro com meu pai Antônio, com minha mãe Luzineide e com meu irmão caçula João Pedro. Juntos formamos uma 
+						família alegre e barulhenta. 
+						<br>Tenho como hobbie criar letterings, cantar e ler. Gosto muito de estar com minha família e meus amigos da
+						Obra Shalom de São José dos Campos, onde oferto minha vida para Deus.</p>
 						<p class="card-text">
 							<small class="text-muted">Publicado em 04 de Setembro de
 								2018</small>

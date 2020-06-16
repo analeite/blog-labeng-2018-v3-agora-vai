@@ -17,28 +17,29 @@
 			<div class="col-1"></div>
 			<div class="col-7">
 				<div class="card-deck text-center">
-					<div class="card">
+				
+				<div class="card">
 						<img class="card-img-top"
-							src="../../public/imagens/2017-09-10 07.40.30 1.jpg" alt="JA">
+							src="../../public/imagens/shalom.jpg"
+							alt="Shalom">
 						<div class="card-body">
-							<h5 class="card-title font-sub">Jovens Adoradores</h5>
-							<p class="card-text">Sou católica e participo de um grupo de oração
-							chamado "Jovens Adoradores" há quase cinco anos. Tirei essa foto
-							no primeiro retiro de conversão que organizamos, o "Coração Adorador".</p>
+							<h5 class="card-title font-sub">Shalom</h5>
+							<p class="card-text">Hoje sou Vocacionada da Comunidade Católica Shalom. Sou muito feliz, 
+							pois aqui encontrei o meu lugar!</p>
 						</div>
 						<div class="card-footer">
 							<small class="text-muted">Publicado em 04 de Setembro de
 								2018</small>
 						</div>
 					</div>
+				
 					<div class="card">
 						<img class="card-img-top"
 							src="../../public/imagens/2017-09-13 05.27.42 1.jpg" alt="Música">
 						<div class="card-body">
 							<h5 class="card-title font-sub">Música</h5>
 							<p class="card-text">Eu amo cantar! Fiz aula de canto por cerca de 
-							dois anos. Faço parte de um ministério de música no grupo que participo
-							na Paróquia que frequento.</p>
+							dois anos. Faço parte de um ministério de música na Obra Shalom de São José dos Campos.</p>
 						</div>
 						<div class="card-footer">
 							<small class="text-muted">Publicado em 04 de Setembro de
@@ -63,21 +64,23 @@
 				</div>
 				<br>
 				<div class="card-deck text-center">
-					<div class="card">
+				
+				<div class="card">
 						<img class="card-img-top"
-							src="../../public/imagens/2018-01-05 07.04.34 1.jpg"
-							alt="Alexandre">
+							src="../../public/imagens/2017-09-10 07.40.30 1.jpg" alt="JA">
 						<div class="card-body">
-							<h5 class="card-title font-sub">Namoro</h5>
-							<p class="card-text">Eu namoro com o Alexandre há dois anos e sou
-							extremamente feliz por ter essa pessoa incrível do meu lado!</p>
+							<h5 class="card-title font-sub">Jovens Adoradores</h5>
+							<p class="card-text">Sou católica e participei de um grupo de oração
+							chamado "Jovens Adoradores" por cinco anos. Tirei essa foto
+							no primeiro retiro de conversão que organizamos, o "Coração Adorador".</p>
 						</div>
 						<div class="card-footer">
 							<small class="text-muted">Publicado em 04 de Setembro de
 								2018</small>
 						</div>
 					</div>
-					<div class="card">
+				
+										<div class="card">
 						<img class="card-img-top"
 							src="../../public/imagens/2018-07-08 01.49.32 1.jpg" alt="João">
 						<div class="card-body">
